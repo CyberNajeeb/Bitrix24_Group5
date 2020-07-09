@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d676063-852f-4c96-88f0-a2a0c2929d22" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="6d676063-852f-4c96-88f0-a2a0c2929d22" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +19,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -39,6 +36,37 @@
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/test/java/com/automation" />
     </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn dependency:tree" />
+      <command value="mvn dependencies:tree" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ConfigReaderTest.readProperties" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Bitrix24_Group5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.automation.utilities" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.utilities.ConfigReaderTest" />
+      <option name="METHOD_NAME" value="readProperties" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ConfigReaderTest.readProperties" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -57,9 +85,29 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1878" height="274" key="GridCell.Tab.0.bottom" timestamp="1587107637142">
+      <screen x="2048" y="135" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="274" key="GridCell.Tab.0.bottom/2048.135.1920.1057/0.23.2048.1080@2048.135.1920.1057" timestamp="1587107637142" />
+    <state width="1878" height="274" key="GridCell.Tab.0.center" timestamp="1587107637141">
+      <screen x="2048" y="135" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="274" key="GridCell.Tab.0.center/2048.135.1920.1057/0.23.2048.1080@2048.135.1920.1057" timestamp="1587107637141" />
+    <state width="1878" height="274" key="GridCell.Tab.0.left" timestamp="1587107637140">
+      <screen x="2048" y="135" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="274" key="GridCell.Tab.0.left/2048.135.1920.1057/0.23.2048.1080@2048.135.1920.1057" timestamp="1587107637140" />
+    <state width="1878" height="274" key="GridCell.Tab.0.right" timestamp="1587107637141">
+      <screen x="2048" y="135" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="274" key="GridCell.Tab.0.right/2048.135.1920.1057/0.23.2048.1080@2048.135.1920.1057" timestamp="1587107637141" />
     <state x="2546" y="301" key="Maven.ArtifactSearchDialog" timestamp="1586819307788">
       <screen x="2048" y="135" width="1920" height="1008" />
     </state>
     <state x="2546" y="301" key="Maven.ArtifactSearchDialog/2048.135.1920.1008/0.23.2048.1129@2048.135.1920.1008" timestamp="1586819307788" />
+    <state x="2673" y="299" width="670" height="675" key="run.anything.popup" timestamp="1587107255596">
+      <screen x="2048" y="135" width="1920" height="1057" />
+    </state>
+    <state x="2673" y="299" width="670" height="675" key="run.anything.popup/2048.135.1920.1057/0.23.2048.1080@2048.135.1920.1057" timestamp="1587107255596" />
   </component>
 </project>
